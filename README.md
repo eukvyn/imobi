@@ -32,3 +32,7 @@ Imobi é uma aplicação Django web construída durante a ***PyStackWeek***, eve
 Feito por: Kevin Almeida | [<a href="https://www.linkedin.com/in/kevin-almeida-desenvolvedor/">Veja meu Linkedin</a>]
 <br>
 Créditos: Pythonando | [<a href="https://www.youtube.com/c/pythonando">Veja o canal do youtube da Pythonando</a>]
+
+# Certificado
+
+![Certificate](certificate-pythonando.png)
